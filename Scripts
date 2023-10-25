@@ -1,0 +1,4 @@
+To start Zookeeper run:
+/usr/local/bin/zookeeper-server-start /usr/local/etc/zookeeper/zoo.cfg
+To start Kafka run:
+/usr/local/bin/kafka-server-start     /usr/local/etc/kafka/server.properties
